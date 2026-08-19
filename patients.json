@@ -48,14 +48,5 @@
         "weight": 76,
         "bmi": 23.5,
         "verdict": "Normal"
-    },
-    "P011": {
-        "name": "John Doe",
-        "age": 25,
-        "gender": "Male",
-        "height": 5.9,
-        "weight": 70.0,
-        "bmi": 2.01,
-        "verdict": "Underweight"
     }
 }
