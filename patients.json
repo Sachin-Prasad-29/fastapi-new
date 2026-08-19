@@ -1,13 +1,13 @@
 {
     "P001": {
-        "name": "John Smith",
-        "city": "New York",
+        "name": "Sachin Prasad",
+        "city": "Korba",
         "age": 34,
         "gender": "Male",
         "height": 1.78,
-        "weight": 82,
-        "bmi": 25.9,
-        "verdict": "Overweight"
+        "weight": 62.0,
+        "bmi": 19.57,
+        "verdict": "Normal"
     },
     "P002": {
         "name": "Emma Johnson",
